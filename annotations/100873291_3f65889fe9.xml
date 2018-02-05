@@ -1,0 +1,26 @@
+<annotation>
+	<folder>n03937543_urlimages</folder>
+	<filename>100873291_3f65889fe9.jpg</filename>
+	<path>/home/james/Documents/ImageNet_Utils-master/n03937543/n03937543_urlimages/100873291_3f65889fe9.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pill bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>18</xmin>
+			<ymin>9</ymin>
+			<xmax>301</xmax>
+			<ymax>256</ymax>
+		</bndbox>
+	</object>
+</annotation>

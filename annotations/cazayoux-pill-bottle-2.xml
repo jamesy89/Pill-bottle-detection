@@ -1,0 +1,26 @@
+<annotation>
+	<folder>n03937543_copy</folder>
+	<filename>cazayoux-pill-bottle-2.png</filename>
+	<path>/home/james/Documents/ImageNet_Utils-master/n03937543/n03937543_copy/cazayoux-pill-bottle-2.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>162</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pill bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>91</xmin>
+			<ymin>9</ymin>
+			<xmax>296</xmax>
+			<ymax>125</ymax>
+		</bndbox>
+	</object>
+</annotation>

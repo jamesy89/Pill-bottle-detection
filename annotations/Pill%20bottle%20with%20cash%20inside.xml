@@ -1,0 +1,26 @@
+<annotation>
+	<folder>n03937543_copy</folder>
+	<filename>Pill%20bottle%20with%20cash%20inside.jpg</filename>
+	<path>/home/james/Documents/ImageNet_Utils-master/n03937543/n03937543_copy/Pill%20bottle%20with%20cash%20inside.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>181</width>
+		<height>272</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pill bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>1</ymin>
+			<xmax>134</xmax>
+			<ymax>200</ymax>
+		</bndbox>
+	</object>
+</annotation>
